@@ -1,2 +1,2 @@
 # LiteraBrasil
-Trabalho do Projeto Integrador
+Projeto Integrador
