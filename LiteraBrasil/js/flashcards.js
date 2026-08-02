@@ -1,1 +1,0 @@
-document.addEventListener('DOMContentLoaded',()=>document.querySelectorAll('.flash').forEach(x=>{x.tabIndex=0;x.onclick=()=>x.classList.toggle('flipped');x.onkeydown=e=>{if(e.key==='Enter')x.click()}}));
